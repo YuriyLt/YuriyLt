@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello Coursera!  👋
+### great to meet you there! 
 
 <!--
 **YuriyLt/yuriylt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
